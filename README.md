@@ -12,7 +12,7 @@
 - 요러한 HTML element 에 대한 클래스가 있다.
 ### iii. "strictNullChecks": true
 - `"strictNullChecks": true` 캄파일 옵션 null을 엄격하게 관리한다.
-#### iv. narrowing
+### iv. narrowing
 - null에 의한 에러를 방지하기 위한 narrowing 기법 6개
 
 1. if 문으로 `null !=` 이용하기
